@@ -5,7 +5,7 @@ This project is a companion to a video done on my channel on how to configure te
 
 The terraform in this project creates a minimal VPC with only one public subnet. 
 
-An EC2 instance is created with Ubuntu as the OS with a userdata script installing apache when the instance boots.
+An EC2 instance is created with Ubuntu as the OS with a [userdata](scripts/userdata.sh) script installing apache when the instance boots.
 
 ## Prerequisites
 
