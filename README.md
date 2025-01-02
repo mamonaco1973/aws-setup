@@ -11,7 +11,7 @@ An EC2 instance is created with Ubuntu as the OS with a [userdata](scripts/userd
 
 ```bash
 git clone https://github.com/mamonaco1973/aws-setup.git
-cd gcp-setup
+cd aws-setup
 ```
 
 ## Prerequisites
