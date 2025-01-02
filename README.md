@@ -7,6 +7,13 @@ The terraform in this project creates a minimal VPC with only one public subnet.
 
 An EC2 instance is created with Ubuntu as the OS with a [userdata](scripts/userdata.sh) script installing apache when the instance boots.
 
+## Download this Repository
+
+```bash
+git clone https://github.com/mamonaco1973/aws-setup.git
+cd gcp-setup
+```
+
 ## Prerequisites
 
 * [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
