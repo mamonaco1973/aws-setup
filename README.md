@@ -3,7 +3,7 @@ AWS Terraform Setup Instructions
 
 This project is a companion to a video done on my channel on how to configure terraform with AWS. 
 
-The video for this project is [AWS + Terraform: Easy Setup](https://www.youtube.com/watch?v=BCMQo0CB9wk&t).
+The video for this project is [AWS + Terraform: Easy Setup](https://youtu.be/42ynVALwFk8).
 
 The terraform in this project creates a minimal VPC with only one public subnet. 
 
