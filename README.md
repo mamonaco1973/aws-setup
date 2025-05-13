@@ -68,7 +68,7 @@ To run this example you need an AWS account. The [AWS Free Tier](https://aws.ama
 # Set AWS access keys
 export AWS_ACCESS_KEY_ID="your_access_key_id"
 export AWS_SECRET_ACCESS_KEY="your_secret_access_key"
-export AWS_DEFAULT_REGION="your_default_region"  # Optional
+export AWS_DEFAULT_REGION="your_default_region"  # Recommended
 
 # Verify settings
 aws sts get-caller-identity
@@ -79,7 +79,7 @@ aws sts get-caller-identity
 # Set AWS access keys
 $env:AWS_ACCESS_KEY_ID = "your_access_key_id"
 $env:AWS_SECRET_ACCESS_KEY = "your_secret_access_key"
-$env:AWS_DEFAULT_REGION = "your_default_region"  # Optional
+$env:AWS_DEFAULT_REGION = "your_default_region"  # Recommended
 
 # Verify settings
 aws sts get-caller-identity
